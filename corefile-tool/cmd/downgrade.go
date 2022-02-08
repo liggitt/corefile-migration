@@ -6,7 +6,7 @@ import (
 
 	"github.com/coredns/corefile-migration/migration"
 
-	"github.com/spf13/cobra"
+	"github.com/liggitt/cobra"
 )
 
 // NewDowngradeCmd represents the downgrade command

@@ -7,7 +7,7 @@ import (
 
 	"github.com/coredns/corefile-migration/migration"
 
-	"github.com/spf13/cobra"
+	"github.com/liggitt/cobra"
 )
 
 // NewValidVersionsCmd represents the validversions command

@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
+	"github.com/liggitt/cobra"
 	"github.com/lithammer/dedent"
-	"github.com/spf13/cobra"
 )
 
 // CorefileTool represents the base command for the corefile-tool.
